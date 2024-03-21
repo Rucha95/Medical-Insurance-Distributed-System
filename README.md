@@ -15,7 +15,6 @@
   ◦ Json Schema describing the data model for the use case
   
   ◦ Advanced semantics with rest API operations such as update if not changed
-  ◦ E.g. etag, if-match, if-none-match
   
   ◦ Storage of data in key/value store
 
