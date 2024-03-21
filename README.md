@@ -1,6 +1,6 @@
 # Medical Insurance Distributed System
 
-- Architecture: 
+- Architecture Diagram: 
 
 ![324CCE7E-7E96-4816-8C4E-511A3777904E](https://github.com/Rucha95/Medical-Insurance-Distributed-System/assets/91445710/9fb4245d-3d31-4e13-8871-823073f69bf2)
 
